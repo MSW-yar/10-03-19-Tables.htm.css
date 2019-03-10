@@ -1,0 +1,28 @@
+table,
+th {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 15px;
+  background-color: white;
+  color: purple;
+  font-family: "Ariel";
+  font-weight: bold;
+}
+
+table {
+  border-spacing: 500px;
+  border-color: red;
+  border-width: thick;
+}
+
+body {
+  text-align: center;
+  background-color: blue;
+  font-size: 80%;
+  margin-top: 18%;
+  margin-left: 36%;
+}
+
+h1 {
+  margin-right: 55%;
+}
